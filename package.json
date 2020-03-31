@@ -5,6 +5,9 @@
   "repository": "https://github.com/BattleDevLibrary/NodeJs.git",
   "author": "Thomas Guillouët <thomas.guillouet@outlook.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "^6.8.0",
