@@ -1,3 +1,6 @@
+.idea/
+.vscode/
+
 # Excluding node_modules
 node_modules/
 
